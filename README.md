@@ -6,7 +6,7 @@ The project also demonstrates the structure of an open-source GitHub repository,
 ## 📌 Features
 
 - Calculates simple interest using the formula:  
-  **Simple Interest = (Principal × Rate × Time) / 100**
+  Simple Interest = (Principal × Rate × Time) / 100
 - Interactive terminal input for values
 - Open-source project structure with essential GitHub files
 
